@@ -17,7 +17,7 @@ tic()
 
 # write_rds(data,'G:/data.rds')
 # data <- readr::read_rds('e:/My package/shiny/data_for shiny.rds')
-data <- readr::read_rds('j:/shiny/data.rds')
+data <- readr::read_rds('data.rds')
 # saveRDS(data,'data2.rds')
 toc()
 print('data read time')
